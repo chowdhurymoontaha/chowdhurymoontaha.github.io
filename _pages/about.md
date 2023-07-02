@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! 👽
+Greetings! 
 
 <p style="text-align:justify">I am a graduate student at <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>, 
 where I am doing research on <em>Memory Efficient Retriever Augmented Open-Domain Question Answering Through Web Search and Summarization</em> under the supervision of <a href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a>.
