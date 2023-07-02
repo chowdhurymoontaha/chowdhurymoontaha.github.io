@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "G. M. Shahariar Shibli"
+title                    : "Moontaha Nishat Chowdhury"
 title_separator          : "-"
-name                     : &name "G. M. Shahariar Shibli"
+name                     : &name "Moontaha Nishat Chowdhury"
 description              : &description "personal description"
-url                      : https://shahariar-shibli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chowdhurymoontaha.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shahariar-shibli/shahariar-shibli.github.io"
+repository               : "chowdhurymoontaha/chowdhurymoontaha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "G. M. Shahariar Shibli"
+  name             : "Moontaha Nishat Chowdhury"
   avatar           : "profile.jpg"
-  bio              : "Senior Lecturer at Department of Computer Science and Engineering of Ahsanullah University of Science and Technology."
+  bio              : "Lecturer at Department of Computer Science and Engineering of Ahsanullah University of Science and Technology."
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shahariar-shibli"
+  github           : "chowdhurymoontaha"
   google_plus      :
   keybase          :
   instagram        :
