@@ -10,8 +10,7 @@ redirect_from:
 
 Hi,there! 
 
-<p style="text-align:justify">I am Moontaha Nishat Chowdhury, a <a href="https://www.aust.edu/cse/faculty_member/ms_moontaha_nishat_chowdhury">Lecturer</a> of Computer Science and Engineering, at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor of Science in CSE from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. 
-My research interest include: Machine Learning, Embedded Sensor Data Analysis, Natural Language Processing. </p>
+<p style="text-align:justify">I am Moontaha Nishat Chowdhury, a <a href="https://www.aust.edu/cse/faculty_member/ms_moontaha_nishat_chowdhury">Lecturer</a> of Computer Science and Engineering, at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor of Science in CSE from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. My research interest include: Machine Learning, Embedded Sensor Data Analysis, Natural Language Processing. </p>
 
 
 ## Activities ⚡
