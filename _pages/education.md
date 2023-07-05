@@ -24,8 +24,5 @@ Duration: 2012 - 2014 <br/>
 GPA: <b>5.00/5.00</b> scale <br/>
 
 ## Awards
-🏆 Prime Minister Gold Medal, University Grants Commission of Bangladesh, 2018 <br/>
-🏆 Dean's List of Honor (Ranked <b>1<sup>st</sup></b>), Ahsanullah University of Science and Technology, 2018<br/>
-🏆 Government Scholarship, HSC, Dhaka Board, 2013 <br/>
-🏆 Government Scholarship, SSC, Dhaka Board, 2011 <br/>
-🏆 Government Scholarship, JSC, Dhaka Board, 2008 <br/>
+🏆 Dean's List of Honor (Ranked <b>1<sup>st</sup></b>), Ahsanullah University of Science and Technology, 2022<br/>
+🏆 Government Scholarship, HSC, Dhaka Board, 2016 <br/>
