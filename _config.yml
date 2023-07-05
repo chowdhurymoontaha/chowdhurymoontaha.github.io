@@ -86,11 +86,11 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en"
-  email            : "sshibli745@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/G-Shahariar"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57844100100"
-  semanticscholar  : "https://www.semanticscholar.org/author/G.-M.-Shahariar/100649170"
+  googlescholar    : "https://scholar.google.com/citations?user=eYJP5BUAAAAJ&hl=en"
+  email            : "chowdhurymoontaha3@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Moontaha-Chowdhury"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=57844100100"
+  semanticscholar  : #"https://www.semanticscholar.org/author/G.-M.-Shahariar/100649170"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,8 +104,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shahariar-shibli"
-  orcid            : "http://orcid.org/0000-0001-9757-7663"
+  linkedin         : "https://bd.linkedin.com/in/moontaha-nishat-chowdhury-5b0b5022b?original_referer=https%3A%2F%2Fwww.google.com%2F"
+  orcid            : "https://orcid.org/0009-0000-7725-3127"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
