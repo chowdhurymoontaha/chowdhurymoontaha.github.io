@@ -60,7 +60,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black">
-	<font size="3"><strong>Conference:</strong><em>Journal of Advances in Information Technology</em></font> ([JAIT](http://www.jait.us/index.php?m=content&c=index&a=show&catid=221&id=1258))
+	<font size="3"><strong>Conference:</strong><em>Journal of Advances in Information Technology</em></font> ([JAIT](http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#icfirb2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/364138051_Urgent_Text_Detection_in_Bengali_Language_Based_on_Boosting_Techniques)] [<a style="color:red;" href="#" onclick="$('#icfirb2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
