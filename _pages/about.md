@@ -15,7 +15,7 @@ Hi,there!
 
 ## Activities ⚡
 + <strong>August 2022</strong>: One paper <span style="color:blue">punlished</span> at <em>[iJIM 2022](https://online-journals.org/index.php/i-jim/issue/view/869).</em>
-+ <strong>January 2022</strong>: One Paper <span style="color:red">accepted</span> at <em>[jait 2022](http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221).</em>
++ <strong>January 2022</strong>: One Paper <span style="color:red">accepted</span> at <em>[JAIT 2022](http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221).</em>
 
 
 
