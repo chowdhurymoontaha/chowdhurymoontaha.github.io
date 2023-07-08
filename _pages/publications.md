@@ -24,16 +24,14 @@ author_profile: true
 
 <div id="iran2022_bib" class="bib" style="display:none;">
 	<pre>
-		@article{
-		author={Moontaha Nishat Chowdhury and H M Zabir Haque and Kazi Taqi Tahmid and Fatema-Tuz-Zohora Salma and Nafisa Ahmed},
-		title={A Novel Approach for Product Recommendation Using Smartphone Sensor Data}, 
-		volume={16}, 
-		url={https://online-journals.org/index.php/i-jim/article/view/31617 }, 
-		DOI={10.3991/ijim.v16i16.31617},
-		number={16}, 
-		journal={International Journal of Interactive Mobile Technologies (iJIM)},  
-		year={2022}, month={Aug.}, pages={pp. 190-204} 
-		}
+		@article{chowdhury2022novel,
+		title={A Novel Approach for Product Recommendation Using Smartphone Sensor Data.},
+		author={Chowdhury, Moontaha Nishat and Haque, HM and Tahmid, Kazi Taqi and Salma, Fatema-Tuz-Zohora and Ahmed, Nafisa},
+		journal={International Journal of Interactive Mobile Technologies},
+		volume={16},
+		number={16},
+		year={2022}
+}
 	</pre>
 </div>
 
@@ -56,34 +54,27 @@ author_profile: true
 </div>
 
 <!-- Paper 01 -->
-📌 [<span style="color:Blue">**Urgent Text Detection in Bengali Language Based on Boosting Techniques**</span>](https://link.springer.com/chapter/10.1007/978-981-19-2445-3_49)<br>
+📌 [<span style="color:Blue">**An Integrated Crowdsourcing Application for Embedded Smartphone Sensor Data Acquisition and Mobility Analysis**</span>](http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221)<br>
 <span style="color:black">
-	<font size="3"><strong>Authors</strong>: Rafsan Rahman, Tamanna Nazmin, Noor Nafeur Rahman, Miyad Bhuiyan, <strong style="color:green">G. M. Shahariar</strong>, and Faisal Muhammad Shah</font>
+	<font size="3"><strong>Authors</strong>: Kazi Taqi Tahmid, Khandaker Rezwan Ahmed, <strong style="color:green">Moontaha Nishat Chowdhury,</strong> Koushik Mallik, Umme Habiba, HM Zabir Haque</font>
 </span>
 <br>
 <span style="color:black">
-	<font size="3"><strong>Conference:</strong><em> International Conference on Fourth Industrial Revolution and Beyond</em></font> ([ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3))
+	<font size="3"><strong>Conference:</strong><em>Journal of Advances in Information Technology</em></font> ([JAIT](http://www.jait.us/index.php?m=content&c=index&a=show&catid=221&id=1258))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#icfirb2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/364138051_Urgent_Text_Detection_in_Bengali_Language_Based_on_Boosting_Techniques)] [<a style="color:red;" href="#" onclick="$('#icfirb2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="icfirb2022_bib" class="bib" style="display:none;">
 	<pre>
-		@InProceedings{10.1007/978-981-19-2445-3_49,
-			author="Rahman, Rafsan
-			and Nazmin, Tamanna
-			and Rahman, Noor Nafeur
-			and Bhuiyan, Miyad
-			and Shahariar, G. M.
-			and Shah, Faisal Muhammad",
-			title="Urgent Text Detection in Bengali Language Based on Boosting Techniques",
-			booktitle="Proceedings of International Conference on Fourth Industrial Revolution and Beyond 2021 ",
-			year="2022",
-			publisher="Springer Nature Singapore",
-			address="Singapore",
-			pages="697--709",
-			isbn="978-981-19-2445-3"
-		}
+		@article{tahmid2022integrated,
+		title={An Integrated Crowdsourcing Application for Embedded Smartphone Sensor Data Acquisition and Mobility Analysis},
+		author={Tahmid, Kazi Taqi and Ahmed, Khandaker Rezwan and Chowdhury, Moontaha Nishat and Mallik, Koushik and Habiba, Umme and Haque, HM Zabir},
+		journal={Journal of Advances in Information Technology Vol},
+		volume={13},
+		number={5},
+		year={2022}
+	}
 	</pre>
 </div>
 
