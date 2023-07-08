@@ -11,26 +11,28 @@ author_profile: true
 ## 2022
 ---------
 <!-- Paper 02 -->
-📌 [<span style="color:Blue">**Automatic back transliteration of Romanized Bengali (Banglish) to Bengali**</span>](https://link.springer.com/article/10.1007/s42044-022-00122-9)<br>
+📌 [<span style="color:Blue">**A Novel Approach for Product Recommendation Using Smartphone Sensor Data**</span>](https://online-journals.org/index.php/i-jim/article/view/31617)<br>
 <span style="color:black">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar Shibli</strong>, Md. Tanvir Rouf Shawon, Anik Hassan Nibir, Md. Zabed Miandad, and Nibir Chandra Mandal</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> H M Zabir Haque, Kazi Taqi Tahmid, Fatema-Tuz-Zohora Salma, and Nafisa Ahmed. </font>
 </span>
 <br>
 <span style="color:black">
-	<font size="3"><strong>Journal:</strong><em> Iran Journal of Computer Science</em></font> ([Iran J Comput Sci](https://www.springer.com/journal/42044))
+	<font size="3"><strong>Journal:</strong><em> International Journal of Interactive Mobile Technologies</em></font> ([iJIM](https://online-journals.org/index.php/i-jim/issue/view/869))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/shahariar-shibli/Automatic-Back-Transliteration-of-Romanized-Bengali-Banglish-to-Bengali)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="iran2022_bib" class="bib" style="display:none;">
 	<pre>
-		@article{shibli2022automatic,
-		  title={Automatic back transliteration of Romanized Bengali (Banglish) to Bengali},
-		  author={Shibli, GM Shahariar and Shawon, Md Tanvir Rouf and Nibir, Anik Hassan and Miandad, Md Zabed and Mandal, Nibir Chandra},
-		  journal={Iran Journal of Computer Science},
-		  pages={1--12},
-		  year={2022},
-		  publisher={Springer}
+		@article{
+		author={Moontaha Nishat Chowdhury and H M Zabir Haque and Kazi Taqi Tahmid and Fatema-Tuz-Zohora Salma and Nafisa Ahmed},
+		title={A Novel Approach for Product Recommendation Using Smartphone Sensor Data}, 
+		volume={16}, 
+		url={https://online-journals.org/index.php/i-jim/article/view/31617 }, 
+		DOI={10.3991/ijim.v16i16.31617},
+		number={16}, 
+		journal={International Journal of Interactive Mobile Technologies (iJIM)},  
+		year={2022}, month={Aug.}, pages={pp. 190-204} 
 		}
 	</pre>
 </div>
