@@ -20,7 +20,7 @@ author_profile: true
 	<font size="3"><strong>Journal:</strong><em> International Journal of Interactive Mobile Technologies</em></font> ([iJIM](https://online-journals.org/index.php/i-jim/issue/view/869))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/shahariar-shibli/Automatic-Back-Transliteration-of-Romanized-Bengali-Banglish-to-Bengali)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="iran2022_bib" class="bib" style="display:none;">
 	<pre>
