@@ -54,7 +54,7 @@ author_profile: true
 </div>
 
 <!-- Paper 01 -->
-📌 [<span style="color:Blue">**An Integrated Crowdsourcing Application for Embedded Smartphone Sensor Data Acquisition and Mobility Analysis**</span>](http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221)<br>
+📌 [<span style="color:Blue">**An Integrated Crowdsourcing Application for Embedded Smartphone Sensor Data Acquisition and Mobility Analysis**</span>](http://www.jait.us/index.php?m=content&c=index&a=show&catid=221&id=1258)<br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: Kazi Taqi Tahmid, Khandaker Rezwan Ahmed, <strong style="color:green">Moontaha Nishat Chowdhury,</strong> Koushik Mallik, Umme Habiba, HM Zabir Haque</font>
 </span>
