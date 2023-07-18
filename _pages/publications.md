@@ -74,7 +74,7 @@ feedback.
 	<font size="3"><strong>Conference:</strong><em>Journal of Advances in Information Technology</em></font> ([JAIT](http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#icfirb2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://chowdhurymoontaha.github.io/files/JAIT2022/An_Integrated_Crowdsourcing_Application_for_Embedd.pdf)] [<a style="color:red;" href="#" onclick="$('#icfirb2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#icfirb2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/364280828_An_Integrated_Crowdsourcing_Application_for_Embedded_Smartphone_Sensor_Data_Acquisition_and_Mobility_Analysis)] [<a style="color:red;" href="#" onclick="$('#icfirb2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="icfirb2022_bib" class="bib" style="display:none;">
 	<pre>
