@@ -38,17 +38,28 @@ author_profile: true
 <div id="iran2022_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;"> 
 		<font size="3">
-			Back transliteration of Romanized Bengali to Bengali is the process of converting text written in the Latin alphabet back into the 
-			Bengali script. This is often done in order to improve the readability of Bengali text for Bengali speakers using a simple rules-based 
-			system, or an interactive transliteration tool. There are many ways to back transliterate from Romanized Bengali to Bengali, but most 
-			of them are either grapheme or phoneme based. This paper introduces a unique pipeline that uses nine open source back transliteration 
-			tools to automatically back transliterate Romanized Bengali to Bengali. The pipeline consists of seven steps: (1) processing the 
-			Romanized Bengali input; (2) acquiring human transliteration for performance comparison; (3) employing transliteration tools; (4) 
-			generating candidate transliterations; (5) post-processing the candidate transliterations; (6) selecting best candidate transliteration, 
-			and (7) evaluating the quality of the transliterations through several performance metrics. Experimental results reveal that our approach 
-			produced the highest BLEU-1 score of 81.28, BLEU-2 score of 60.75, BLEU-3 score of 44.45, BLEU-4 score of 30.46, and the lowest average 
-			Word Error Rate and Word Information Lost of 29.21 and 43.68, respectively, on 1000 Romanized Bengali texts. In terms of recall, 
-			we achieved a Rouge-L score of 0.7190.
+			Human Activity-based studies have become an omnipresent 
+research topic in Machine Learning. Considering the countless impacts of human 
+activity on persons' everyday life, we have analyzed the correlation between 
+human activity and their product preferences in our study and proposed that 
+daily human activity could be a metric for product recommendation models. 
+To address this previously unaccounted phenomenon, a new approach is pre
+sented in our study that gives real-time recommendations to users by observing 
+their activeness in daily life. However, product recommendation systems mostly 
+believe in ratings, and the purchase behavior of users instead of investigating the 
+precious insights of users' daily activities. But we examined smartphones' GPS 
+sensor data using machine learning algorithms to urge insights from users' daily 
+activeness and proposed a model for predicting the product of interest of the 
+purchasers, based on the activeness of their daily life. Moreover, based on our 
+model, we have introduced a prototype of a real-time recommendation system, 
+especially for the retail shops that rely on users' implicit data from smartphone 
+sensors to form product recommendations. For conducting our study, we devel
+oped an android application that-collects embedded smartphone sensor data 
+and can detect objects to provide product recommendations and product details. 
+Experiment shows, that our proffered daily activeness-based recommendation 
+system using smartphone sensor data, performs with a precision of 66%, but 
+it is also a promising performance because it does not use customers' explicit 
+feedback.
 		</font>
 	</p>
 </div>
@@ -81,16 +92,27 @@ author_profile: true
 <div id="icfirb2022_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;"> 
 		<font size="3">
-			This paper presents a learning approach on a unique dataset formulated by authors that detects urgent texts 
-			from the posts on social media platforms in Bengali language. It is difficult to keep track of every information 
-			we go through social media. In the collision of numerous posts, it is easy to miss information that is urgent. 
-			In this advanced era of machine learning, detecting urgent texts among thousands of posts would be much easier 
-			if we can implement a model that can filter the urgent text out of them. Therefore, we propose an approach that 
-			can identify any type of urgent texts from public posts by leveraging a manually constructed dataset that is fully 
-			human annotated. Apart from traditional machine learning classifiers, we applied boosting algorithms in our 
-			proposed method in addition. Experimentally, a significant increase in accuracy has been noticed by boosting 
-			weak learners. Support Vector Machine (SVM) achieved 80.9% accuracy where gradient boosting outperformed the 
-			traditional approach with 82% accuracy while detecting urgent texts in Bengali language.
+			The proliferation of smartphones has become a 
+ubiquitous platform for acquiring and analyzing data. 
+Smartphones' embedded sensors have become an effective 
+source for human spatial and activity-based analysis. 
+Machine Learning (ML) has made significant progress in 
+learning features from these raw sensor data with high 
+accuracy. However, domain experts, knowing ML, can apply 
+machine learning techniques for various aspects. In this 
+research, we have introduced-a smartphone sensor data 
+collection and analysis platform for people in general who 
+have little or no knowledge of machine learning but can avail 
+the services of machine learning for their purpose. We have 
+built an Android application for collecting sensor data and 
+developed an Automated Machine Learning (AutoML) based 
+web platform for data pre-processing, visualization, and 
+analysis. Spatial analysis has been conducted on our AutoML 
+based web application on GPS sensor data. We evaluated the 
+most visited places of our app users using clustering 
+techniques. The experiment shows that the DBSCAN 
+clustering algorithm gives superior performance over K
+means clustering for our spatial analysis on GPS sensor data. 
 		</font>
 	</p>
 </div>
