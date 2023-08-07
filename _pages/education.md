@@ -13,13 +13,13 @@ Supervisor: <a style="color:brown;" href="https://www.aust.edu/cse/faculty_membe
 
 <!-- HSC -->
 <span style="color:black; font-size:20px"><b><a href="https://www.vnsc.edu.bd/" target="_blank">Viqarunnisa Noon School & College</a></b></span><br/>
-Higher Secondary Certificate (HSC) [[Certificate](https://github.com/chowdhurymoontaha/chowdhurymoontaha.github.io/blob/main/files/Education/HSC_Certificate.pdf)] <br/>
+Higher Secondary Certificate (HSC) <a href="../files/Education/HSC_Certificate.pdf">[Certificate]</a> <br/>
 Duration: 2014 - 2016 <br/>
 GPA: <b>5.00/5.00</b> scale <br/>
 
 <!-- SSC -->
 <span style="color:black; font-size:20px"><b><a href="https://www.vnsc.edu.bd/" target="_blank">Viqarunnisa Noon School & College</a></b></span><br/>
-Secondary School Certificate (SSC) [[Certificate](https://github.com/chowdhurymoontaha/chowdhurymoontaha.github.io/blob/main/files/Education/SSC_Certificate.pdf)] <br/>
+Secondary School Certificate (SSC)  <a href="../files/Education/SSC_Certificate.pdf">[Certificate]</a> <br/>
 Duration: 2012 - 2014 <br/>
 GPA: <b>5.00/5.00</b> scale <br/>
 
