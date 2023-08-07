@@ -6,7 +6,7 @@ author_profile: true
 ---
 <!-- B.Sc. -->
 <span style="color:black; font-size:20px"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
-Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate](https://github.com/chowdhurymoontaha/chowdhurymoontaha.github.io/blob/main/files/Education/BSc_Certificate.pdf)] <br/>
+Bachelor of Science (B.Sc.) in Computer Science and Engineering<a href="../files/Education/BSc_Certificate.pdf">[Certificate]</a> <br/>
 Duration: 2017 - 2022 <br/>
 CGPA: <b>3.798/4.00</b> scale (Ranked <b>1<sup>st</sup></b>)<br/>
 Supervisor: <a style="color:brown;" href="https://www.aust.edu/cse/faculty_member/mr_h_m_zabir_haque">Mr. H M Zabir Haque</a><br/>
