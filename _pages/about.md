@@ -28,9 +28,6 @@ Previously, I have analyzed Human Activity through embedded smartphone sensor da
 > chowdhurymoontaha3[at]gmail[dot]com (***personal***) <br/>
 > moontaha_chowdhury[dot]cse[at]aust[dot]edu (***official***)
 
-## Social Media
-You can find me on [LinkedIn]("https://www.linkedin.com/in/moontaha-nishat-chowdhury-5b0b5022b/").
-
 ## Office
 [Office website](https://www.aust.edu/cse/faculty_member/ms_moontaha_nishat_chowdhury)
 
