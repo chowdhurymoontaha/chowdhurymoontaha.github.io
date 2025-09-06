@@ -32,7 +32,7 @@ I am currently developing an FHE Transformer framework that extends privacy-pres
 
 
 ## Email
-> chowdhurymoontaha3[at]gmail[dot]com (***personal***) <br/>
+> chowdhurymoontaha3[at]gmail[dot]com<br/>
 
 
 <code style="color:black;">Feel free to contact regarding any queries. Thank you#.</code>
