@@ -28,7 +28,12 @@ Previously, I have analyzed Human Activity and Mobility through embedded smartph
 > chowdhurymoontaha3[at]gmail[dot]com (***personal***) <br/>
 > moontaha_chowdhury[dot]cse[at]aust[dot]edu (***official***)
 
-## Office
-[Office website](https://www.aust.edu/cse/faculty_member/ms_moontaha_nishat_chowdhury)
+## Research
+<p style="text-align:justify">My research focuses on privacy-preserving computation, particularly using fully homomorphic encryption to enable secure machine learning on encrypted data. I work on developing efficient algorithms that can handle the computational and communication challenges inherent in encrypted domain processing. <br/> <br/>
+Previously, I worked on smartphone sensor data analysis and recommendation systems. This experience with data-intensive applications led me to privacy challenges in machine learning, where sensitive user information needs protection while maintaining system functionality.
+<br/><br/>
+I'm currently developing an FHE Transformer framework that extends privacy-preserving capabilities to modern deep learning architectures.
+ </p>
+
 
 <code style="color:black;">Feel free to contact regarding any queries. Thank you#.</code>
