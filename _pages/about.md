@@ -31,4 +31,4 @@ Previously, I have analyzed Human Activity and Mobility through embedded smartph
 ## Office
 [Office website](https://www.aust.edu/cse/faculty_member/ms_moontaha_nishat_chowdhury)
 
-<code style="color:black;">Feel free to contact regarding any queries. Thank you.</code>
+<code style="color:black;">Feel free to contact regarding any queries. Thank you#.</code>
