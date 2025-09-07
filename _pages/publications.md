@@ -30,8 +30,7 @@ author_profile: true
       year={2025},
       eprint={2509.03024},
       archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2509.03024}, 
+      primaryClass={cs.CR}
 }
 	</pre>
 </div>
