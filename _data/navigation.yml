@@ -15,8 +15,8 @@ main:
   #- title: "Teaching"
    # url: /teaching/ 
 
-  - title: "Job Experience"
-    url: /job experience/     
+  - title: "Experiences"
+    url: /experiences/     
     
   - title: "CV"
     url: /cv/
