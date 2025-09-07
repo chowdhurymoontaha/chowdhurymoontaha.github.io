@@ -10,9 +10,9 @@ redirect_from:
 
 Hi,there! 
 
-<p style="text-align:justify">I am Moontaha Nishat Chowdhury, a volunteer researcher exploring Privacy-Preserving Machine Learning and Cryptography. I was a former Lecturer</a> of Computer Science and Engineering, at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor of Science in CSE from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. My research interest includes: Privacy-Preserving Computing, Cryptography, Distributed Decentralized Learning, Human Computer Interaction, and Machine Leaarning. <br/> <br/>
+<p style="text-align:justify">I am Moontaha Nishat Chowdhury, a volunteer researcher exploring Privacy-Preserving Machine Learning and Cryptography. I was a former Lecturer</a> of Computer Science and Engineering, at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor of Science in CSE from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. My research interest includes: Privacy-Preserving Computing, Cryptography, Distributed Decentralized Learning, Human Computer Interaction, and Machine Learning.
 <b> For additional information, please see my <a href="https://chowdhurymoontaha.github.io//publications/">publications</a>.</b>
- </p>
+</p>
 
 
 ## Research
