@@ -17,7 +17,14 @@ Previously, I have analyzed Human Activity and Mobility through embedded smartph
  </p>
 
 
-## Activities ⚡
+## Research
+<p style="text-align:justify">My research focuses on privacy-preserving computation, particularly using fully homomorphic encryption to enable secure machine learning on encrypted data. I work on developing efficient algorithms that can handle the computational and communication challenges inherent in encrypted domain processing. <br/> <br/>
+Previously, I worked on smartphone sensor data analysis and recommendation systems. This experience with data-intensive applications led me to privacy challenges in machine learning, where sensitive user information needs protection while maintaining system functionality.
+<br/><br/>
+I am currently developing an FHE Transformer framework that extends privacy-preserving capabilities to modern deep learning architectures.
+ </p>
+ 
+## News ⚡
 + <strong>August 2022</strong>: One paper <span style="color:blue">punlished</span> at <em>[iJIM 2022](https://online-journals.org/index.php/i-jim/issue/view/869).</em>
 + <strong>January 2022</strong>: One Paper <span style="color:red">accepted</span> at <em>[JAIT 2022](http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221).</em>
 
@@ -25,15 +32,6 @@ Previously, I have analyzed Human Activity and Mobility through embedded smartph
 
 
 ## Email
-> chowdhurymoontaha3[at]gmail[dot]com (***personal***) <br/>
-> moontaha_chowdhury[dot]cse[at]aust[dot]edu (***official***)
+> chowdhurymoontaha3[at]gmail[dot]com<br/>
 
-## Research
-<p style="text-align:justify">My research focuses on privacy-preserving computation, particularly using fully homomorphic encryption to enable secure machine learning on encrypted data. I work on developing efficient algorithms that can handle the computational and communication challenges inherent in encrypted domain processing. <br/> <br/>
-Previously, I worked on smartphone sensor data analysis and recommendation systems. This experience with data-intensive applications led me to privacy challenges in machine learning, where sensitive user information needs protection while maintaining system functionality.
-<br/><br/>
-I am currently developing an FHE Transformer framework that extends privacy-preserving capabilities to modern deep learning architectures.
- </p>
-
-
-<code style="color:black;">Feel free to contact regarding any queries. Thank you#.</code>
+<code style="color:black;">Feel free to contact regarding any queries. Thank you.</code>
