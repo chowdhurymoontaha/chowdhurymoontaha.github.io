@@ -28,7 +28,6 @@ I am currently developing an FHE Transformer framework that extends privacy-pres
 + <strong>Present</strong>: Currently working on <span style="color:black">Fully Homomorphic Encryption based Transformer Framework for Decentralized Distributed Learning</span>
 + <strong>August 2025</strong>: Our paper <span style="color:black">"Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption"</span> <span style="color:red">nominated at Best Paper Candidate!</span> 
 + <strong>June 2025</strong>: One paper <span style="color:blue">accepted</span> at <em><a href="https://www.escience-conference.org/2025/papers">21st IEEE International eScience Conference (eScience'25)</a></em>
-
 + <strong>September 2024</strong>: I have left job at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and moved to Riverside, CA.
 + <strong>February 2023</strong>: I have became a member of OBE(Outcome Based Eduation) Committee at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>.
 + <strong>November 2022</strong>: I have started working as a Full-time Lecturer at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> in the Department of Computer Science and Engineering.
