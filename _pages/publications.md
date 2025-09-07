@@ -8,7 +8,7 @@ author_profile: true
 <code style="color:black;">Publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=eYJP5BUAAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</code>
 ## 2025
 ---------
-<!-- Paper 01 -->
+<!-- Paper 03 -->
 ðŸ“Œ [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://www.arxiv.org/abs/2509.03024)<br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury</strong>, André Bauer, and Minxuan Zhou.</font>
