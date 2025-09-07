@@ -38,28 +38,7 @@ author_profile: true
 <div id="iran2022_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;"> 
 		<font size="3">
-			Human Activity-based studies have become an omnipresent 
-research topic in Machine Learning. Considering the countless impacts of human 
-activity on persons' everyday life, we have analyzed the correlation between 
-human activity and their product preferences in our study and proposed that 
-daily human activity could be a metric for product recommendation models. 
-To address this previously unaccounted phenomenon, a new approach is pre
-sented in our study that gives real-time recommendations to users by observing 
-their activeness in daily life. However, product recommendation systems mostly 
-believe in ratings, and the purchase behavior of users instead of investigating the 
-precious insights of users' daily activities. But we examined smartphones' GPS 
-sensor data using machine learning algorithms to urge insights from users' daily 
-activeness and proposed a model for predicting the product of interest of the 
-purchasers, based on the activeness of their daily life. Moreover, based on our 
-model, we have introduced a prototype of a real-time recommendation system, 
-especially for the retail shops that rely on users' implicit data from smartphone 
-sensors to form product recommendations. For conducting our study, we devel
-oped an android application that-collects embedded smartphone sensor data 
-and can detect objects to provide product recommendations and product details. 
-Experiment shows, that our proffered daily activeness-based recommendation 
-system using smartphone sensor data, performs with a precision of 66%, but 
-it is also a promising performance because it does not use customers' explicit 
-feedback.
+			In today's data-driven world, recommendation systems personalize user experiences across industries but rely on sensitive data, raising privacy concerns. Fully homomorphic encryption (FHE) can secure these systems, but a significant challenge in applying FHE to recommendation systems is efficiently handling the inherently large and sparse user-item rating matrices. FHE operations are computationally intensive, and naively processing various sparse matrices in recommendation systems would be prohibitively expensive. Additionally, the communication overhead between parties remains a critical concern in encrypted domains. We propose a novel approach combining Compressed Sparse Row (CSR) representation with FHE-based matrix factorization that efficiently handles matrix sparsity in the encrypted domain while minimizing communication costs. Our experimental results demonstrate high recommendation accuracy with encrypted data while achieving the lowest communication costs, effectively preserving user privacy.
 		</font>
 	</p>
 </div>
