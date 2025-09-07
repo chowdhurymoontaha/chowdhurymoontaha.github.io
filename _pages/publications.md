@@ -8,6 +8,65 @@ author_profile: true
 <code style="color:black;">Publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=eYJP5BUAAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</code>
 
 
+## 2024
+---------
+<!-- Paper 02 -->
+📌 [<span style="color:Blue">**A Novel Approach for Product Recommendation Using Smartphone Sensor Data**</span>](https://online-journals.org/index.php/i-jim/article/view/31617)<br>
+<span style="color:black">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> H M Zabir Haque, Kazi Taqi Tahmid, Fatema-Tuz-Zohora Salma, and Nafisa Ahmed. </font>
+</span>
+<br>
+<span style="color:black">
+	<font size="3"><strong>Journal:</strong><em> International Journal of Interactive Mobile Technologies</em></font> ([iJIM](https://online-journals.org/index.php/i-jim/issue/view/869))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/363155563_A_Novel_Approach_for_Product_Recommendation_Using_Smartphone_Sensor_Data)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="iran2022_bib" class="bib" style="display:none;">
+	<pre>
+		@article{chowdhury2022novel,
+		title={A Novel Approach for Product Recommendation Using Smartphone Sensor Data.},
+		author={Chowdhury, Moontaha Nishat and Haque, HM and Tahmid, Kazi Taqi and Salma, Fatema-Tuz-Zohora and Ahmed, Nafisa},
+		journal={International Journal of Interactive Mobile Technologies},
+		volume={16},
+		number={16},
+		year={2022}
+}
+	</pre>
+</div>
+
+<div id="iran2022_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;"> 
+		<font size="3">
+			Human Activity-based studies have become an omnipresent 
+research topic in Machine Learning. Considering the countless impacts of human 
+activity on persons' everyday life, we have analyzed the correlation between 
+human activity and their product preferences in our study and proposed that 
+daily human activity could be a metric for product recommendation models. 
+To address this previously unaccounted phenomenon, a new approach is pre
+sented in our study that gives real-time recommendations to users by observing 
+their activeness in daily life. However, product recommendation systems mostly 
+believe in ratings, and the purchase behavior of users instead of investigating the 
+precious insights of users' daily activities. But we examined smartphones' GPS 
+sensor data using machine learning algorithms to urge insights from users' daily 
+activeness and proposed a model for predicting the product of interest of the 
+purchasers, based on the activeness of their daily life. Moreover, based on our 
+model, we have introduced a prototype of a real-time recommendation system, 
+especially for the retail shops that rely on users' implicit data from smartphone 
+sensors to form product recommendations. For conducting our study, we devel
+oped an android application that-collects embedded smartphone sensor data 
+and can detect objects to provide product recommendations and product details. 
+Experiment shows, that our proffered daily activeness-based recommendation 
+system using smartphone sensor data, performs with a precision of 66%, but 
+it is also a promising performance because it does not use customers' explicit 
+feedback.
+		</font>
+	</p>
+</div>
+
+
+
+
 
 
 ## 2024
