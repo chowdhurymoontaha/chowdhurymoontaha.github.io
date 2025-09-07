@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <code style="color:black;">Publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=eYJP5BUAAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</code>
+
 ## 2025
 ---------
 <!-- Paper 01 -->
