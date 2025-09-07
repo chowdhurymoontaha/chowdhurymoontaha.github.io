@@ -3,9 +3,7 @@ permalink: /experiences/
 title: "Experiences"
 ---
 
-
-
-##Courses1 
+## Courses 
 
 <details>
 <summary>CSE 1102: Elementary Structured Programming Lab</summary>
