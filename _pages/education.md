@@ -25,4 +25,5 @@ GPA: <b>5.00/5.00</b> scale <br/>
 
 ## Awards
 🏆 Dean's List of Honor (Ranked <b>1<sup>st</sup></b>), Ahsanullah University of Science and Technology, 2022<br/>
+🏆 Top 5% Student's Scholarship, Ahsanullah University of Science and Technology , 2019-2021 <br/>
 🏆 Government Scholarship, HSC, Dhaka Board, 2016 <br/>
