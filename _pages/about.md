@@ -27,7 +27,7 @@ I am currently developing an FHE Transformer framework that extends privacy-pres
 ## News ⚡
 + <strong>Present</strong>: Currently working on <span style="color:black">Fully Homomorphic Encryption based Transformer Framework for Decentralized Distributed Learning</span>
 
-+ <strong>August 2025</strong>: Our paper <span style="color:black">"Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption"</span><span style="color:red"> nominated at Best Paper Candidate!</span> 
++ <strong>August 2025</strong>: Our paper "Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption"<span style="color:red"> nominated at Best Paper Candidate!</span> 
 
 + <strong>June 2025</strong>: One paper <span style="color:blue">accepted</span> at <em><a href="https://www.escience-conference.org/2025/papers">21st IEEE International eScience Conference (eScience'25)</a>.</em>
 
