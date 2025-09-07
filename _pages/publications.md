@@ -6,9 +6,43 @@ author_profile: true
 ---
 
 <code style="color:black;">Publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=eYJP5BUAAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</code>
+## 2025
+---------
+<!-- Paper 01 -->
+?? [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://www.arxiv.org/abs/2509.03024)<br>
+<span style="color:black">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury</strong>, André Bauer, and Minxuan Zhou.</font>
+</span>
+<br>
+<span style="color:black">
+	<font size="3"><strong>Conference</strong>: <em>21st IEEE International eScience Conference</em></font> ([eScience'25](https://www.escience-conference.org/2025/papers))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#paper2025_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style="color:red"><font size="3">PDF</font></span>](https://www.arxiv.org/abs/2509.03024)] [<a style="color:red;" href="#" onclick="$('#paper2025_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
+<div id="paper2025_bib" class="bib" style="display:none;">
+	<pre>
+@misc{chowdhury2025efficientprivacypreservingrecommendationsparse,
+	title={Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption}, 
+	author={Moontaha Nishat Chowdhury and André Bauer and Minxuan Zhou},
+	year={2025},
+	eprint={2509.03024},
+	archivePrefix={arXiv},
+	primaryClass={cs.CR},
+	url={https://arxiv.org/abs/2509.03024}
+}
+	</pre>
+</div>
 
-## 2023
+<div id="paper2025_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;"> 
+		<font size="3">
+			In today's data-driven world, recommendation systems personalize user experiences across industries but rely on sensitive data, raising privacy concerns. Fully homomorphic encryption (FHE) can secure these systems, but a significant challenge in applying FHE to recommendation systems is efficiently handling the inherently large and sparse user-item rating matrices. FHE operations are computationally intensive, and naively processing various sparse matrices in recommendation systems would be prohibitively expensive. Additionally, the communication overhead between parties remains a critical concern in encrypted domains. We propose a novel approach combining Compressed Sparse Row (CSR) representation with FHE-based matrix factorization that efficiently handles matrix sparsity in the encrypted domain while minimizing communication costs. Our experimental results demonstrate high recommendation accuracy with encrypted data while achieving the lowest communication costs, effectively preserving user privacy.
+		</font>
+	</p>
+</div>
+
+## 2022
 ---------
 <!-- Paper 02 -->
 ðŸ“Œ [<span style="color:Blue">**A Novel Approach for Product Recommendation Using Smartphone Sensor Data**</span>](https://online-journals.org/index.php/i-jim/article/view/31617)<br>
