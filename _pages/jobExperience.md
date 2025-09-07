@@ -1,6 +1,6 @@
 ---
-permalink: /job experience/
-title: "Job Experience"
+permalink: /experiences/
+title: "Experiences"
 ---
 
 
