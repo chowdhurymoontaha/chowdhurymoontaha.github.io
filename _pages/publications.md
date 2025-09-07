@@ -11,7 +11,7 @@ author_profile: true
 ## 2025
 ---------
 <!-- Paper 01 -->
-📌 [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://arxiv.org/abs/2509.03024v1)<span style="color:red">Nominated as Best Paper(Top 5)</span><br>
+📌 [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://arxiv.org/abs/2509.03024v1)<span style="color:red"><br>Nominated as Best Paper(Top 5)</span><br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> Andre Bauer, and Minxuan Zhou. </font>
 </span>
