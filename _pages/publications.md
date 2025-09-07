@@ -24,13 +24,14 @@ author_profile: true
 
 <div id="eScience2025_bib" class="bib" style="display:none;">
 	<pre>
-		@article{chowdhury2025efficientprivacypreservingrecommendationsparse,
+		@misc{chowdhury2025efficientprivacypreservingrecommendationsparse,
       title={Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption}, 
       author={Moontaha Nishat Chowdhury and Andre Bauer and Minxuan Zhou},
       year={2025},
       eprint={2509.03024},
       archivePrefix={arXiv},
-      primaryClass={cs.CR}
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2509.03024}, 
 }
 	</pre>
 </div>
