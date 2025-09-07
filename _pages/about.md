@@ -30,7 +30,7 @@ I am currently developing an FHE Transformer framework that extends privacy-pres
 + <strong>June 2025</strong>: One paper <span style="color:blue">accepted</span> at <em><a href="https://www.escience-conference.org/2025/papers">21st IEEE International eScience Conference (eScience'25)</a></em>
 + <strong>October 2024</strong>: I have got the opportunity to work as a Volunteer Research Assistant under the supervision of Professor Minxuan Zhou. 
 + <strong>September 2024</strong>: I have left job at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and moved to Riverside, CA.
-+ <strong>February 2023</strong>: I have became a member of OBE(Outcome BasedEduation) at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>.
++ <strong>February 2023</strong>: I have became a member of OBE(Outcome Based Eduation) Committee at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>.
 + <strong>November 2022</strong>: I have started working as a Full-time Lecturer at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> in the Department of Computer Science and Engineering.
 + <strong>August 2022</strong>: One paper <span style="color:blue">published</span> at <em><a href="https://online-journals.org/index.php/i-jim/issue/view/869">iJIM 2022</a></em>
 + <strong>January 2022</strong>: I have started my professional journey as an Adjunct Lecturer at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> in the Department of Computer Science and Engineering.
