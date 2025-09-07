@@ -2,9 +2,11 @@
 permalink: /experiences/
 title: "Experiences"
 ---
+## Job Experiences
+<p style="text-align:justify">During my journey as a Lecturer in CSE, I conducted various core Computer Science courses and served on the curriculum committee of our institute, specifically in the OBE (Outcome Based Education) team. Each semester I worked as an Academic Advisor for approximately 50 students.
+</p>
 
-
-## Courses 
+##Conducted Courses 
 
 <details>
 <summary>CSE 1102: Elementary Structured Programming Lab</summary>
