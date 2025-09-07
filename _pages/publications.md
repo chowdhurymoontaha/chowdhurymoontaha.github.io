@@ -13,7 +13,7 @@ author_profile: true
 <!-- Paper 01 -->
 📌 [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://arxiv.org/abs/2509.03024v1)<br>
 <span style="color:black">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> H M Zabir Haque, Kazi Taqi Tahmid, Fatema-Tuz-Zohora Salma, and Nafisa Ahmed. </font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> Andre Bauer, and Minxuan Zhou. </font>
 </span>
 <br>
 <span style="color:black">
