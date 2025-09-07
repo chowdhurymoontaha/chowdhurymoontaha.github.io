@@ -17,10 +17,10 @@ author_profile: true
 </span>
 <br>
 <span style="color:black">
-	<font size="3"><strong>Journal:</strong><em> 21st IEEE International eScience Conference</em></font> ([eScience'25](https://www.escience-conference.org/2025/papers))
+	<font size="3"><strong>Journal:</strong><em> International Journal of Interactive Mobile Technologies</em></font> ([iJIM](https://online-journals.org/index.php/i-jim/issue/view/869))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2509.03024v1)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/363155563_A_Novel_Approach_for_Product_Recommendation_Using_Smartphone_Sensor_Data)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="iran2022_bib" class="bib" style="display:none;">
 	<pre>
