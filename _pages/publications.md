@@ -8,19 +8,19 @@ author_profile: true
 <code style="color:black;">Publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=eYJP5BUAAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</code>
 
 
-## 2024
+## 2025
 ---------
-<!-- Paper 02 -->
-📌 [<span style="color:Blue">**A Novel Approach for Product Recommendation Using Smartphone Sensor Data**</span>](https://online-journals.org/index.php/i-jim/article/view/31617)<br>
+<!-- Paper 01 -->
+📌 [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://arxiv.org/abs/2509.03024v1)<br>
 <span style="color:black">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> H M Zabir Haque, Kazi Taqi Tahmid, Fatema-Tuz-Zohora Salma, and Nafisa Ahmed. </font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> Andr� Bauer, and Minxuan Zhou. </font>
 </span>
 <br>
 <span style="color:black">
-	<font size="3"><strong>Journal:</strong><em> International Journal of Interactive Mobile Technologies</em></font> ([iJIM](https://online-journals.org/index.php/i-jim/issue/view/869))
+	<font size="3"><strong>Journal:</strong><em> 21st IEEE International eScience Conference</em></font> ([eScience'25](https://www.escience-conference.org/2025/papers))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/363155563_A_Novel_Approach_for_Product_Recommendation_Using_Smartphone_Sensor_Data)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2509.03024v1)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="iran2022_bib" class="bib" style="display:none;">
 	<pre>
@@ -69,7 +69,7 @@ feedback.
 
 
 
-## 2024
+## 2022
 ---------
 <!-- Paper 02 -->
 📌 [<span style="color:Blue">**A Novel Approach for Product Recommendation Using Smartphone Sensor Data**</span>](https://online-journals.org/index.php/i-jim/article/view/31617)<br>
