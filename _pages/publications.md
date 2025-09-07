@@ -24,13 +24,14 @@ author_profile: true
 
 <div id="iran2022_bib" class="bib" style="display:none;">
 	<pre>
-		@article{chowdhury2022novel,
-		title={A Novel Approach for Product Recommendation Using Smartphone Sensor Data.},
-		author={Chowdhury, Moontaha Nishat and Haque, HM and Tahmid, Kazi Taqi and Salma, Fatema-Tuz-Zohora and Ahmed, Nafisa},
-		journal={International Journal of Interactive Mobile Technologies},
-		volume={16},
-		number={16},
-		year={2022}
+		@misc{chowdhury2025efficientprivacypreservingrecommendationsparse,
+      title={Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption}, 
+      author={Moontaha Nishat Chowdhury and André Bauer and Minxuan Zhou},
+      year={2025},
+      eprint={2509.03024},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2509.03024}, 
 }
 	</pre>
 </div>
