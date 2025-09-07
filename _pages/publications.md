@@ -13,7 +13,7 @@ author_profile: true
 <!-- Paper 01 -->
 📌 [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://arxiv.org/abs/2509.03024v1)<br>
 <span style="color:black">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> Andre Bauer, and Minxuan Zhou. </font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury, </strong> Andr\'e Bauer, and Minxuan Zhou. </font>
 </span>
 <br>
 <span style="color:black">
@@ -26,7 +26,7 @@ author_profile: true
 	<pre>
 		@misc{chowdhury2025efficientprivacypreservingrecommendationsparse,
       title={Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption}, 
-      author={Moontaha Nishat Chowdhury and Andre Bauer and Minxuan Zhou},
+      author={Moontaha Nishat Chowdhury and Andr\'e Bauer and Minxuan Zhou},
       year={2025},
       eprint={2509.03024},
       archivePrefix={arXiv},
