@@ -24,24 +24,18 @@ Previously, I worked on smartphone sensor data analysis and recommendation syste
 I am currently developing an FHE Transformer framework that extends privacy-preserving capabilities to modern deep learning architectures.
  </p>
  
-## News ⚡
-+ <strong>Present</strong>: Currently working on <span style="color:red">Fully Homomorphic Encryption based Transformer Framework for Decentralized Distributed Learning</span>
+## News ?
++ <strong>Present</strong>: Currently working on <span style="color:black">Fully Homomorphic Encryption based Transformer Framework for Decentralized Distributed Learning</span>
++ <strong>August 2025</strong>: Our paper <span style="color:black">"Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption"</span> <span style="color:red">nominated at Best Paper Candidate!</span> 
++ <strong>June 2025</strong>: One paper <span style="color:blue">accepted</span> at <em><a href="https://www.escience-conference.org/2025/papers">21st IEEE International eScience Conference (eScience'25)</a></em>
++ <strong>October 2024</strong>: I have got the opportunity to work as a Volunteer Research Assistant under the supervision of Professor Minxuan Zhou. 
++ <strong>September 2024</strong>: I have left job at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and moved to Riverside, CA.
++ <strong>November 2022</strong>: I have started working as a Full-time Lecturer at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> in the Department of Computer Science and Engineering.
++ <strong>August 2022</strong>: One paper <span style="color:blue">published</span> at <em><a href="https://online-journals.org/index.php/i-jim/issue/view/869">iJIM 2022</a></em>
++ <strong>January 2022</strong>: I have started my professional journey as an Adjunct Lecturer at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> in the Department of Computer Science and Engineering.
++ <strong>January 2022</strong>: One Paper <span style="color:red">accepted</span> at <em><a href="http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221">JAIT 2022</a></em>
++ <strong>January 2022</strong>: I have completed my undergraduate studies with a <s
 
-+ <strong>August 2025</strong>: Our paper <span style="color:black">"Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption"</span> nominated at Best Paper Candidate!
-
-+ <strong>June 2025</strong>: One paper <span style="color:blue">accepted</span> at <em><a href="https://www.escience-conference.org/2025/papers">21st IEEE International eScience Conference (eScience'25)</a>.</em>
-
-+ <strong>September 2024</strong>: I have left job at <span style="color:red"><a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and moved to Riverside, CA.</span>
-
-+ <strong>November 2022</strong>: I have started working as a Full-time Lecturer at <span style="color:red"><a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> in the Department of Computer Science and Engineering</span>
-
-+ <strong>August 2022</strong>: One paper <span style="color:blue">published</span> at <em><a href="https://online-journals.org/index.php/i-jim/issue/view/869">iJIM 2022</a>.</em>
-
-+ <strong>January 2022</strong>: I have started my professional journey as an Adjunct Lecturer at <span style="color:red"><a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> in the Department of Computer Science and Engineering</span>
-
-+ <strong>January 2022</strong>: One Paper <span style="color:red">accepted</span> at <em><a href="http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221">JAIT 2022</a>.</em>
-
-+ <strong>January 2022</strong>: I have completed my undergraduate studies with a Dean's List of Honor (Ranked 1st) from <em><a href="https://aust.edu">Ahsanullah University of Science and Technology</a></em>
 
 ## Email
 > chowdhurymoontaha3[at]gmail[dot]com<br/>
