@@ -20,9 +20,9 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> 21st IEEE International eScience Conference</em></font> ([eScience'25](https://www.escience-conference.org/2025/papers))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#iran2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2509.03024v1)] [<a style="color:red;" href="#" onclick="$('#iran2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#eScience2025_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2509.03024v1)] [<a style="color:red;" href="#" onclick="$('#eScience2025_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
-<div id="iran2022_bib" class="bib" style="display:none;">
+<div id="eScience2025_bib" class="bib" style="display:none;">
 	<pre>
 		@misc{chowdhury2025efficientprivacypreservingrecommendationsparse,
       title={Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption}, 
@@ -35,7 +35,7 @@ author_profile: true
 	</pre>
 </div>
 
-<div id="iran2022_abstract" class="abstract" style="display:none;">
+<div id="eScience2025_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;"> 
 		<font size="3">
 			In today's data-driven world, recommendation systems personalize user experiences across industries but rely on sensitive data, raising privacy concerns. Fully homomorphic encryption (FHE) can secure these systems, but a significant challenge in applying FHE to recommendation systems is efficiently handling the inherently large and sparse user-item rating matrices. FHE operations are computationally intensive, and naively processing various sparse matrices in recommendation systems would be prohibitively expensive. Additionally, the communication overhead between parties remains a critical concern in encrypted domains. We propose a novel approach combining Compressed Sparse Row (CSR) representation with FHE-based matrix factorization that efficiently handles matrix sparsity in the encrypted domain while minimizing communication costs. Our experimental results demonstrate high recommendation accuracy with encrypted data while achieving the lowest communication costs, effectively preserving user privacy.
