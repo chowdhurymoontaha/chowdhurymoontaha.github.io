@@ -10,17 +10,10 @@ author_profile: true
 ## 2025
 ---------
 <!-- Paper 01 -->
-?? [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://www.arxiv.org/abs/2509.03024)<br>
+ðŸ“Œ [<span style="color:Blue">**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**</span>](https://www.arxiv.org/abs/2509.03024)<br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Moontaha Nishat Chowdhury</strong>, André Bauer, and Minxuan Zhou.</font>
 </span>
-<br>
-<span style="color:black">
-	<font size="3"><strong>Conference</strong>: <em>21st IEEE International eScience Conference</em></font> ([eScience'25](https://www.escience-conference.org/2025/papers))
-</span>
-<br>
-[<a style="color:red;" href="#" onclick="$('#paper2025_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style="color:red"><font size="3">PDF</font></span>](https://www.arxiv.org/abs/2509.03024)] [<a style="color:red;" href="#" onclick="$('#paper2025_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
-
 
 
 ## 2022
