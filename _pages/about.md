@@ -19,7 +19,7 @@ Human Computer Interaction, and Machine Learning.<span style="color:red"> I am a
 
 
 ## Research Interests
-<p style="text-align:justify">My current research focuses on privacy-preserving machine learning(PPML), 
+<p style="text-align:justify">My current research focuses on privacy-preserving machine learning (PPML), 
 particularly fully homomorphic encryption (FHE) based end-to-end privacy preserving recommendation system. 
 In my most rescent publication, I have worked on developing efficient algorithms and optimization of matrix factorization 
 on encrypted data, while solving the critical sparsity challenge, in order to reduce computational and communication overhead. 
