@@ -5,96 +5,86 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## Conducted Courses 
+<style>
+  .course-details {
+    display: block;
+    text-align: justify;
+    color: black;
+    font-size: 14px;
+    margin-top: 6px;
+  }
+  .course-term {
+    color: green;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: underline;
+  }
+</style>
+
+## Conducted Courses
 
 <details>
-<summary>CSE 1102: Elementary Structured Programming Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2022</ins></font></span><br>
-<span style="text-align:justify; color:black; display:block;">
-<font size="3">
-<strong>Syllabus</strong>: Basic programming concepts and notations; Variables, Constants, Data types; Input and Output Statements; Control Structures; Functions and Subroutines; Processing Structured data: Arrays, Strings, Records, Pointers, Structures, and Linked lists.
-</font>
-</span><br>
+  <summary>CSE 1102: Elementary Structured Programming Lab</summary>
+  <span class="course-term">Conducted in Spring 2022</span>
+  <span class="course-details">
+    <strong>Syllabus</strong>: Basic programming concepts and notations; Variables, Constants, Data types; Input and Output Statements; Control Structures; Functions and Subroutines; Processing Structured data: Arrays, Strings, Records, Pointers, Structures, and Linked lists.
+  </span>
 </details>
 
 <details>
-<summary>CSE 1108: Introduction to Computer Systems Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2022</ins></font></span><br>
-<span style="text-align:justify; color:black; display:block;">
-<font size="3">
-<strong>Syllabus</strong>: Basic introduction to computer systems; Learning basic uses of Microsoft Office Suite; Demonstrate public speaking ability along with PowerPoint presentations; To learn the useful techniques for formal email writing and to use the google search engine efficiently; Creating websites using google sites; To learn the number system, especially binary number system and its arithmetic; Effective report writing techniques using LATEX; Understanding the different types of basic logic gates; Gaining the knowledge of different problem-solving skills such as Algorithms and Flowchart, etc.
-</font>
-</span><br>
+  <summary>CSE 1108: Introduction to Computer Systems Lab</summary>
+  <span class="course-term">Conducted in Fall 2022</span>
+  <span class="course-details">
+    <strong>Syllabus</strong>: Basic introduction to computer systems; Learning basic uses of Microsoft Office Suite; Demonstrate public speaking ability along with PowerPoint presentations; Techniques for formal email writing and efficient use of search engines; Creating websites using Google Sites; Number systems and binary arithmetic; Effective report writing with LaTeX; Logic gates; Problem-solving with algorithms and flowcharts.
+  </span>
 </details>
 
 <details>
-<summary>CSE 1200: Software Development-I</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2021</ins></font></span><br>
-<span style="text-align:justify; color:black; display:block;">
-<font size="3">
-<strong>Syllabus</strong>: Students will develop software in groups or individually using a structured
-programming language with special emphasis on higher features like strings, files,
-sound and graphics.
-</font>
-</span><br>
+  <summary>CSE 1200: Software Development-I</summary>
+  <span class="course-term">Conducted in Spring 2021</span>
+  <span class="course-details">
+    <strong>Syllabus</strong>: Students will develop software individually or in groups using structured programming languages with emphasis on strings, files, sound, and graphics.
+  </span>
 </details>
 
 <details>
-<summary>CSE 2104: Data Structures Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2022 | Fall 2022 </ins></font></span><br>
-<span style="text-align:justify; color:black; display:block;">
-<font size="3">
-<strong>Syllabus</strong>: Basic concepts: Data structure notation, search and efficiency; Elementary data objects: Logical values, Integers, and Packed words; Common data structures: Arrays, Lists (Sublists and recursive lists, Circular lists and Orthogonal lists); Stacks, Queues and Graphs (Binary Tree and Threaded Tree); Applications of data structures: Sorting, Searching, Hashing; Solving Computational problems.
-</font>
-</span><br>
+  <summary>CSE 2104: Data Structures Lab</summary>
+  <span class="course-term">Conducted in Spring 2022 | Fall 2022</span>
+  <span class="course-details">
+    <strong>Syllabus</strong>: Data structure notation and efficiency; Elementary data objects; Arrays, Lists (sublists, recursive, circular, orthogonal); Stacks, Queues, Graphs (binary and threaded trees); Applications: sorting, searching, hashing, and computational problem solving.
+  </span>
 </details>
 
 <details>
-<summary>CSE 2146: Introduction to Computer Science Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2022 </ins></font></span><br>
-<span style="text-align:justify; color:black; display:block;">
-<font size="3">
-<strong>Syllabus</strong>: The basic and fundamental concepts of computer science. Through this course the students will learn the basic principles of using the Windows operating system; learn and practice basic use of keyboard and mouse; be able to access the Internet, and Worldwide Web, as well as use Internet directories and search engines, and locate www addresses; be able to find and evaluate information on the Web; learn the basics of e-mail, such as sending, forwarding and receiving mail, attaching document; learn basic word processing skills with Microsoft Word as well as how to include some graphics such as pictures and charts; be able to make a presentation using Microsoft PowerPoint; able to do the calculation, using formulas, charts in Microsoft Excel.
-
-</font>
-</span><br>
+  <summary>CSE 2146: Introduction to Computer Science Lab</summary>
+  <span class="course-term">Conducted in Spring 2022</span>
+  <span class="course-details">
+    <strong>Syllabus</strong>: Fundamentals of computer science; Windows OS basics; Internet access and search; Email usage; Word processing with Microsoft Word; Presentations with PowerPoint; Calculations and charts with Excel.
+  </span>
 </details>
 
 <details>
-<summary>CSE 2153: Numerical Methods and Computer Programming</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 </ins></font></span><br>
-<span style="text-align:justify; color:black; display:block;">
-<font size="3">
-<strong>Syllabus</strong>: Basic components of computer system; C Language; numerical solution of algebraic
-and transcendental equations; matrices; solution of systems of linear equations;
-curve-fitting by least squares; finite difference; divided differences; interpolation;
-computer applications to Civil Engineering problems, numerical differentiation and
-integration; numerical solution of differential equations.
-</font>
-</span><br>
+  <summary>CSE 2153: Numerical Methods and Computer Programming</summary>
+  <span class="course-term">Conducted in Fall 2021</span>
+  <span class="course-details">
+    <strong>Syllabus</strong>: Computer system basics; C programming; Numerical methods for algebraic and transcendental equations; Matrices and linear systems; Curve fitting; Interpolation; Differentiation, integration, and differential equations with applications.
+  </span>
 </details>
 
 <details>
-<summary>CSE 2200: Software Development – III</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2022</ins></font></span><br>
-<span style="text-align:justify; color:black; display:block;">
-<font size="3">
-<strong>Syllabus</strong>: Laboratory works individually or in groups on the topics such as Mobile Application Development, Familiarity with Development Platforms such as Android Studio, User Interface and Layout Designing, Implementations of Functionalities and Features through Requirement Analysis, Utilization of Local and Real-Time Databases, Deployment Services, Integration of Web Technologies, etc
-</font>
-</span><br>
+  <summary>CSE 2200: Software Development – III</summary>
+  <span class="course-term">Conducted in Fall 2022</span>
+  <span class="course-details">
+    <strong>Syllabus</strong>: Mobile app development using Android Studio; UI and layout design; Feature implementation; Local and real-time databases; Deployment services; Integration of web technologies.
+  </span>
 </details>
 
 <details>
-<summary>CSE 4228: Digital Image Processing Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2022 | Fall 2022</ins></font></span><br>
-<span style="text-align:justify; color:black; display:block;">
-<font size="3">
-<strong>Syllabus</strong>: Laboratory works based on Digital image representation and acquisition; Survey of modern techniques for
-image analysis, processing and enhancement. Two dimensional system and
-transform theory; Sampling, linear and non-linear filtering, feature extraction,
-compression and coding, imaging systems.
-</font>
-</span><br>
+  <summary>CSE 4228: Digital Image Processing Lab</summary>
+  <span class="course-term">Conducted in Spring 2022 | Fall 2022</span>
+  <span class="course-details">
+    <strong>Syllabus</strong>: Image representation and acquisition; Modern image analysis and enhancement techniques; 2D transforms; Sampling, filtering, feature extraction, compression, coding, and imaging systems.
+  </span>
 </details>
 
 
