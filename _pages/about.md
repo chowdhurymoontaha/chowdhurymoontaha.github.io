@@ -23,7 +23,7 @@ Human Computer Interaction, and Machine Learning.<span style="color:red"> I am a
 particularly fully homomorphic encryption (FHE) based end-to-end privacy preserving recommendation system. 
 In my most rescent publication, I have worked on developing efficient algorithms and optimization of matrix factorization 
 on encrypted data, while solving the critical sparsity challenge, in order to reduce computational and communication overhead. 
-In my ongoing work, I am developing an FHE Transformer framework that extends privacy-preserving capabilities for Large Language Models(LLMs) 
+In my ongoing work, I am developing an FHE Transformer framework that extends privacy-preserving capabilities for Large Language Models (LLMs) 
 to enable inference on encrypted data in a distributed decentralized system.<br/> <br/>
 
 Previously, I worked on smartphone sensor data analysis and recommendation systems, where I have analyzed Human Activity and Mobility through embedded smartphone sensor data, 
@@ -34,7 +34,6 @@ using machine learning techniques, and found meaningful insights and patterns fr
  </p>
  
 ## News ⚡
-+ <strong>Present</strong>: Currently working on <span style="color:black">Fully Homomorphic Encryption based Transformer Framework for Decentralized Distributed Learning</span>
 + <strong>August 2025</strong>: Our paper <span style="color:black">"Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption"</span> <span style="color:red">nominated at Best Paper Candidate!</span> 
 + <strong>June 2025</strong>: One paper <span style="color:blue">accepted</span> at <em><a href="https://www.escience-conference.org/2025/papers">21st IEEE International eScience Conference (eScience'25)</a></em>
 + <strong>September 2024</strong>: I have left job at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and moved to Riverside, CA.
