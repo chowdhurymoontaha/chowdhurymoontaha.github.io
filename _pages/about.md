@@ -10,16 +10,27 @@ redirect_from:
 
 Hi, there! 
 
-<p style="text-align:justify">I am Moontaha Nishat Chowdhury, a volunteer researcher exploring Privacy-Preserving Machine Learning and Cryptography. I was a former Lecturer of Computer Science and Engineering, at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor of Science in CSE from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. My research interest includes: Privacy-Preserving Computing, Cryptography, Distributed Decentralized Learning, Human Computer Interaction, and Machine Learning.
+<p style="text-align:justify">I am Moontaha Nishat Chowdhury, a volunteer researcher exploring Privacy-Preserving Machine Learning and Cryptography. 
+I was a Lecturer of Computer Science and Engineering Department, at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>, Dhaka, Bangladesh, and obtained my Bachelor 
+of Science in CSE from the same institution. My research interest includes: Privacy-Preserving Computing, Cryptography, Distributed Decentralized Learning, 
+Human Computer Interaction, and Machine Learning.<span style="color:red"> I am actively seeking Ph.D. opportunities to further enhance my expertise and contribute to research in this domain.</span>
 <b> For additional information, please see my <a href="https://chowdhurymoontaha.github.io//publications/">publications</a>.</b>
 </p>
 
 
-## Research
-<p style="text-align:justify">My research focuses on privacy-preserving computation, particularly using fully homomorphic encryption to enable secure machine learning on encrypted data. I work on developing efficient algorithms that can handle the computational and communication challenges inherent in encrypted domain processing. <br/> <br/>
-Previously, I worked on smartphone sensor data analysis and recommendation systems, where I have analyzed Human Activity and Mobility through embedded smartphone sensor data, using machine learning techniques, and found meaningful insights and patterns from that data, which can be used as a metric for various real-time applications. This experience with data-intensive applications led me to privacy challenges in machine learning, where sensitive user information needs protection while maintaining system functionality.
-<br/><br/>
-I am currently developing an FHE Transformer framework that extends privacy-preserving capabilities to modern deep learning architectures.
+## Research Interests
+<p style="text-align:justify">My current research focuses on privacy-preserving machine learning(PPML), 
+particularly fully homomorphic encryption (FHE) based end-to-end privacy preserving recommendation system. 
+In my most rescent publication, I have worked on developing efficient algorithms and optimization of matrix factorization 
+on encrypted data, while solving the critical sparsity challenge, in order to reduce computational and communication overhead. 
+In my ongoing work, I developing an FHE Transformer framework that extends privacy-preserving capabilities for Large Language Models(LLMs) 
+to enable inference on encrypted data in a distributed decentralized system.<br/> <br/>
+
+Previously, I worked on smartphone sensor data analysis and recommendation systems, where I have analyzed Human Activity and Mobility through embedded smartphone sensor data, 
+using machine learning techniques, and found meaningful insights and patterns from that data, which can be used as a metric for various real-time applications (e.g. Production, Retails, Health-Care Sector, etc.).
+ This experience with data-intensive applications led me to privacy challenges in machine learning, where sensitive user information needs protection while maintaining system functionality.
+
+
  </p>
  
 ## News ⚡
