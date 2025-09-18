@@ -34,7 +34,7 @@ using machine learning techniques, and found meaningful insights and patterns fr
  </p>
  
 ## News ⚡
-+ <strong>September 2025</strong>: Our paper <span style="color:black">"Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption" got</span> <span style="color:red">Best Student Paper Award</span> ?? 
+?? + <strong>September 2025</strong>: Our paper <span style="color:black">"Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption" got</span> <span style="color:red">Best Student Paper Award</span> 
 + <strong>June 2025</strong>: One paper <span style="color:blue">accepted</span> at <em><a href="https://www.escience-conference.org/2025/papers">21st IEEE International eScience Conference (eScience'25)</a></em>
 + <strong>September 2024</strong>: I have left job at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and moved to Riverside, CA.
 + <strong>February 2023</strong>: I have became a member of OBE(Outcome Based Eduation) Committee at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>.
@@ -42,7 +42,7 @@ using machine learning techniques, and found meaningful insights and patterns fr
 + <strong>August 2022</strong>: One paper <span style="color:blue">published</span> at <em><a href="https://online-journals.org/index.php/i-jim/issue/view/869">iJIM 2022</a></em>
 + <strong>January 2022</strong>: I have started my professional journey as an Adjunct Lecturer at <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> in the Department of Computer Science and Engineering.
 + <strong>January 2022</strong>: One Paper <span style="color:blue">accepted</span> at <em><a href="http://www.jait.us/index.php?m=content&c=index&a=lists&catid=221">JAIT 2022</a></em>
-+ <strong>January 2022</strong>: I have completed my undergraduate studies with a ?? <span style="color:red">Dean's List of Honor (Ranked 1st) </span>from <em><a href="https://aust.edu">Ahsanullah University of Science and Technology.</a></em>
+??+ <strong>January 2022</strong>: I have completed my undergraduate studies with a <span style="color:red">Dean's List of Honor (Ranked 1st) </span>from <em><a href="https://aust.edu">Ahsanullah University of Science and Technology.</a></em>
 
 
 ## Email
